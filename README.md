@@ -1,5 +1,6 @@
 # Justice
 
+
 Law firm themed business template for Next.js. Browse through a
 [live demo](https://mysterious-shelter.cloudvent.net/). Increase the web presence of a law firm or
 business with this configurable theme.
