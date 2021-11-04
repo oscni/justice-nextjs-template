@@ -5,4 +5,4 @@ credentials: TI
 phone_extension: '44'
 ---
 
-Works relentlessly&nbsp; until the work is done :)
+Works relentlessly until ALL the work is done :)
